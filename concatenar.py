@@ -1,0 +1,6 @@
+print("ingrese su nombre:")
+nombre=input()
+print("ingrese su apellido:")
+apellido=input()
+print("su nombre y apellido es:",nombre,apellido)
+print("Bienvenido a Codo a Codo")
